@@ -1,0 +1,241 @@
+State,Year,Category,EV_Sales
+Maharashtra,2019,2W,10627
+Maharashtra,2019,3W,8702
+Maharashtra,2019,4W,6989
+Maharashtra,2019,Bus,9174
+Maharashtra,2020,2W,8668
+Maharashtra,2020,3W,7885
+Maharashtra,2020,4W,12342
+Maharashtra,2020,Bus,12433
+Maharashtra,2021,2W,11981
+Maharashtra,2021,3W,7214
+Maharashtra,2021,4W,12116
+Maharashtra,2021,Bus,8886
+Maharashtra,2022,2W,10107
+Maharashtra,2022,3W,7387
+Maharashtra,2022,4W,13179
+Maharashtra,2022,Bus,8972
+Maharashtra,2023,2W,6506
+Maharashtra,2023,3W,9703
+Maharashtra,2023,4W,17175
+Maharashtra,2023,Bus,7690
+Maharashtra,2024,2W,13547
+Maharashtra,2024,3W,9961
+Maharashtra,2024,4W,13192
+Maharashtra,2024,Bus,12256
+Delhi,2019,2W,5635
+Delhi,2019,3W,10319
+Delhi,2019,4W,8764
+Delhi,2019,Bus,10741
+Delhi,2020,2W,7856
+Delhi,2020,3W,7114
+Delhi,2020,4W,8600
+Delhi,2020,Bus,5349
+Delhi,2021,2W,10817
+Delhi,2021,3W,7936
+Delhi,2021,4W,12217
+Delhi,2021,Bus,10576
+Delhi,2022,2W,13649
+Delhi,2022,3W,8789
+Delhi,2022,4W,10456
+Delhi,2022,Bus,13979
+Delhi,2023,2W,15478
+Delhi,2023,3W,9778
+Delhi,2023,4W,13371
+Delhi,2023,Bus,14230
+Delhi,2024,2W,15252
+Delhi,2024,3W,10997
+Delhi,2024,4W,12611
+Delhi,2024,Bus,10059
+Karnataka,2019,2W,10600
+Karnataka,2019,3W,10033
+Karnataka,2019,4W,7853
+Karnataka,2019,Bus,9340
+Karnataka,2020,2W,10923
+Karnataka,2020,3W,11068
+Karnataka,2020,4W,8938
+Karnataka,2020,Bus,11334
+Karnataka,2021,2W,8727
+Karnataka,2021,3W,11883
+Karnataka,2021,4W,9036
+Karnataka,2021,Bus,10260
+Karnataka,2022,2W,13157
+Karnataka,2022,3W,7799
+Karnataka,2022,4W,12826
+Karnataka,2022,Bus,13601
+Karnataka,2023,2W,11522
+Karnataka,2023,3W,13412
+Karnataka,2023,4W,16877
+Karnataka,2023,Bus,14508
+Karnataka,2024,2W,13912
+Karnataka,2024,3W,14475
+Karnataka,2024,4W,15959
+Karnataka,2024,Bus,12396
+Gujarat,2019,2W,8498
+Gujarat,2019,3W,6226
+Gujarat,2019,4W,5862
+Gujarat,2019,Bus,4840
+Gujarat,2020,2W,6932
+Gujarat,2020,3W,9600
+Gujarat,2020,4W,12801
+Gujarat,2020,Bus,6393
+Gujarat,2021,2W,12663
+Gujarat,2021,3W,6868
+Gujarat,2021,4W,11256
+Gujarat,2021,Bus,12893
+Gujarat,2022,2W,11917
+Gujarat,2022,3W,7339
+Gujarat,2022,4W,11301
+Gujarat,2022,Bus,12927
+Gujarat,2023,2W,11633
+Gujarat,2023,3W,15125
+Gujarat,2023,4W,13680
+Gujarat,2023,Bus,11035
+Gujarat,2024,2W,13482
+Gujarat,2024,3W,9148
+Gujarat,2024,4W,13248
+Gujarat,2024,Bus,9632
+Tamil Nadu,2019,2W,6138
+Tamil Nadu,2019,3W,7248
+Tamil Nadu,2019,4W,8508
+Tamil Nadu,2019,Bus,9290
+Tamil Nadu,2020,2W,8026
+Tamil Nadu,2020,3W,9457
+Tamil Nadu,2020,4W,10165
+Tamil Nadu,2020,Bus,10930
+Tamil Nadu,2021,2W,5378
+Tamil Nadu,2021,3W,10425
+Tamil Nadu,2021,4W,7714
+Tamil Nadu,2021,Bus,13507
+Tamil Nadu,2022,2W,9416
+Tamil Nadu,2022,3W,13825
+Tamil Nadu,2022,4W,7769
+Tamil Nadu,2022,Bus,7825
+Tamil Nadu,2023,2W,7799
+Tamil Nadu,2023,3W,12109
+Tamil Nadu,2023,4W,10819
+Tamil Nadu,2023,Bus,11477
+Tamil Nadu,2024,2W,12593
+Tamil Nadu,2024,3W,10383
+Tamil Nadu,2024,4W,12703
+Tamil Nadu,2024,Bus,10034
+Uttar Pradesh,2019,2W,9562
+Uttar Pradesh,2019,3W,8948
+Uttar Pradesh,2019,4W,8689
+Uttar Pradesh,2019,Bus,9659
+Uttar Pradesh,2020,2W,5339
+Uttar Pradesh,2020,3W,8914
+Uttar Pradesh,2020,4W,10374
+Uttar Pradesh,2020,Bus,9408
+Uttar Pradesh,2021,2W,8886
+Uttar Pradesh,2021,3W,12533
+Uttar Pradesh,2021,4W,13136
+Uttar Pradesh,2021,Bus,10761
+Uttar Pradesh,2022,2W,10876
+Uttar Pradesh,2022,3W,10158
+Uttar Pradesh,2022,4W,13254
+Uttar Pradesh,2022,Bus,10748
+Uttar Pradesh,2023,2W,9538
+Uttar Pradesh,2023,3W,9505
+Uttar Pradesh,2023,4W,9523
+Uttar Pradesh,2023,Bus,12132
+Uttar Pradesh,2024,2W,12772
+Uttar Pradesh,2024,3W,13338
+Uttar Pradesh,2024,4W,13495
+Uttar Pradesh,2024,Bus,8851
+Telangana,2019,2W,4781
+Telangana,2019,3W,8558
+Telangana,2019,4W,7932
+Telangana,2019,Bus,7711
+Telangana,2020,2W,8536
+Telangana,2020,3W,11318
+Telangana,2020,4W,10523
+Telangana,2020,Bus,7353
+Telangana,2021,2W,12239
+Telangana,2021,3W,10647
+Telangana,2021,4W,12456
+Telangana,2021,Bus,9431
+Telangana,2022,2W,6801
+Telangana,2022,3W,11993
+Telangana,2022,4W,13374
+Telangana,2022,Bus,7758
+Telangana,2023,2W,10271
+Telangana,2023,3W,14859
+Telangana,2023,4W,10309
+Telangana,2023,Bus,14574
+Telangana,2024,2W,11453
+Telangana,2024,3W,12204
+Telangana,2024,4W,10717
+Telangana,2024,Bus,14029
+Rajasthan,2019,2W,6312
+Rajasthan,2019,3W,4892
+Rajasthan,2019,4W,9996
+Rajasthan,2019,Bus,4744
+Rajasthan,2020,2W,9182
+Rajasthan,2020,3W,7003
+Rajasthan,2020,4W,12131
+Rajasthan,2020,Bus,5460
+Rajasthan,2021,2W,9038
+Rajasthan,2021,3W,13866
+Rajasthan,2021,4W,12222
+Rajasthan,2021,Bus,8087
+Rajasthan,2022,2W,9468
+Rajasthan,2022,3W,5952
+Rajasthan,2022,4W,9554
+Rajasthan,2022,Bus,10523
+Rajasthan,2023,2W,12303
+Rajasthan,2023,3W,10672
+Rajasthan,2023,4W,13184
+Rajasthan,2023,Bus,13237
+Rajasthan,2024,2W,15147
+Rajasthan,2024,3W,9031
+Rajasthan,2024,4W,12848
+Rajasthan,2024,Bus,11471
+Haryana,2019,2W,9534
+Haryana,2019,3W,4542
+Haryana,2019,4W,6906
+Haryana,2019,Bus,5519
+Haryana,2020,2W,11084
+Haryana,2020,3W,8002
+Haryana,2020,4W,8941
+Haryana,2020,Bus,4748
+Haryana,2021,2W,13052
+Haryana,2021,3W,11656
+Haryana,2021,4W,13248
+Haryana,2021,Bus,6535
+Haryana,2022,2W,9108
+Haryana,2022,3W,7243
+Haryana,2022,4W,10596
+Haryana,2022,Bus,6456
+Haryana,2023,2W,14874
+Haryana,2023,3W,15969
+Haryana,2023,4W,8270
+Haryana,2023,Bus,8060
+Haryana,2024,2W,14321
+Haryana,2024,3W,8127
+Haryana,2024,4W,15379
+Haryana,2024,Bus,12313
+Madhya Pradesh,2019,2W,7987
+Madhya Pradesh,2019,3W,10244
+Madhya Pradesh,2019,4W,6343
+Madhya Pradesh,2019,Bus,6836
+Madhya Pradesh,2020,2W,6822
+Madhya Pradesh,2020,3W,4907
+Madhya Pradesh,2020,4W,9139
+Madhya Pradesh,2020,Bus,9638
+Madhya Pradesh,2021,2W,9759
+Madhya Pradesh,2021,3W,12049
+Madhya Pradesh,2021,4W,9773
+Madhya Pradesh,2021,Bus,12732
+Madhya Pradesh,2022,2W,7404
+Madhya Pradesh,2022,3W,12855
+Madhya Pradesh,2022,4W,8779
+Madhya Pradesh,2022,Bus,14718
+Madhya Pradesh,2023,2W,10628
+Madhya Pradesh,2023,3W,9741
+Madhya Pradesh,2023,4W,9333
+Madhya Pradesh,2023,Bus,15182
+Madhya Pradesh,2024,2W,10367
+Madhya Pradesh,2024,3W,10067
+Madhya Pradesh,2024,4W,16041
+Madhya Pradesh,2024,Bus,10292
